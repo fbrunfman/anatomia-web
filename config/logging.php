@@ -91,4 +91,8 @@ return [
         ],
     ],
 
+    'api_client_id' => env('API_CLIENT_ID'),
+
+    'api_client_secret' => env('API_CLIENT_SECRET')
+
 ];
